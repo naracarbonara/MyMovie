@@ -1,0 +1,72 @@
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.deps.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.runtimeconfig.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.runtimeconfig.dev.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Views.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Views.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.csprojAssemblyReference.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorAssemblyInfo.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorAssemblyInfo.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.AssemblyInfoInputs.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.AssemblyInfo.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.TagHelpers.input.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.TagHelpers.output.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorCoreGenerate.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorTargetAssemblyInfo.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorTargetAssemblyInfo.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.Views.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.csproj.CopyComplete
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Models.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Services.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Services.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Models.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Info\AboutUs.cshtml.g.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Info\ContactUs.cshtml.g.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Details.cshtml.g.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Overview.cshtml.g.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Create.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\appsettings.json
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.deps.json
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.runtimeconfig.json
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.runtimeconfig.dev.json
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.dll
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.pdb
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Views.dll
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Views.pdb
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Models.dll
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Services.dll
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Services.pdb
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Models.pdb
+D:\GitHub\MyMovie\MyMovies1\bin\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.csprojAssemblyReference.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorAssemblyInfo.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorAssemblyInfo.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.AssemblyInfoInputs.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.AssemblyInfo.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.TagHelpers.input.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.TagHelpers.output.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorCoreGenerate.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Info\AboutUs.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Info\ContactUs.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Create.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Details.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Movies\Overview.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorTargetAssemblyInfo.cache
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.RazorTargetAssemblyInfo.cs
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.Views.pdb
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.csproj.CopyComplete
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.dll
+D:\GitHub\MyMovie\MyMovies1\obj\Debug\netcoreapp2.1\MyMovies1.pdb

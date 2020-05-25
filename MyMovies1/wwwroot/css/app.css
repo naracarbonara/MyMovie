@@ -1,0 +1,9 @@
+﻿#alphabetSearch {
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+    #alphabetSearch a {
+        color: dimgray;
+    }

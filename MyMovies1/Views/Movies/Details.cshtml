@@ -1,0 +1,22 @@
+﻿@model MyMovies1.Models.Movie;
+
+@{
+    Layout = "_Layout";
+    ViewBag.Title = "Details";
+}
+
+    <div style="width:60%;margin:0 auto;">
+        <img  src="@Model.ImageUrl" style="height:60%; width:100%;"/>
+        <h1 style="text-align:center">@Model.Title</h1>
+        <p style="text-align:center">@Model.Description</p>
+
+        <h2 style="text-align:center" >Cast</h2>
+        @*<ul>
+            @foreach (var actor in @Model.Cast)
+            {
+                <li>@actor</li>
+            }
+        </ul>*@
+
+    <h4 style="text-align:center"> @Model.Cast;</h4> 
+    </div>

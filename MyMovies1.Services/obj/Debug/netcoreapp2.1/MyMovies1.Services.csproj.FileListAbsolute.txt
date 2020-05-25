@@ -1,0 +1,26 @@
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.csprojAssemblyReference.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.AssemblyInfoInputs.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.AssemblyInfo.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Services.deps.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Services.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Services.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Models.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Models.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.csproj.CopyComplete
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.pdb
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Services.deps.json
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Services.dll
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Services.pdb
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Models.dll
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+D:\GitHub\MyMovie\MyMovies1.Services\bin\Debug\netcoreapp2.1\MyMovies1.Models.pdb
+D:\GitHub\MyMovie\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.csprojAssemblyReference.cache
+D:\GitHub\MyMovie\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.AssemblyInfoInputs.cache
+D:\GitHub\MyMovie\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.AssemblyInfo.cs
+D:\GitHub\MyMovie\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.csproj.CopyComplete
+D:\GitHub\MyMovie\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.dll
+D:\GitHub\MyMovie\MyMovies1.Services\obj\Debug\netcoreapp2.1\MyMovies1.Services.pdb

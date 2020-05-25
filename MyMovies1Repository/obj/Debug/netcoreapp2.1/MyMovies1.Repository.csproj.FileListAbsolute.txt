@@ -1,0 +1,22 @@
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.csprojAssemblyReference.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.AssemblyInfoInputs.cache
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.AssemblyInfo.cs
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Repository.deps.json
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Models.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Models.pdb
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.csproj.CopyComplete
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+C:\Users\Natasa\Desktop\Akademija\.Net Core\MyMovies1\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+D:\GitHub\MyMovie\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Repository.deps.json
+D:\GitHub\MyMovie\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+D:\GitHub\MyMovie\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
+D:\GitHub\MyMovie\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Models.dll
+D:\GitHub\MyMovie\MyMovies1Repository\bin\Debug\netcoreapp2.1\MyMovies1.Models.pdb
+D:\GitHub\MyMovie\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.csprojAssemblyReference.cache
+D:\GitHub\MyMovie\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.AssemblyInfoInputs.cache
+D:\GitHub\MyMovie\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.AssemblyInfo.cs
+D:\GitHub\MyMovie\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.csproj.CopyComplete
+D:\GitHub\MyMovie\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.dll
+D:\GitHub\MyMovie\MyMovies1Repository\obj\Debug\netcoreapp2.1\MyMovies1.Repository.pdb
